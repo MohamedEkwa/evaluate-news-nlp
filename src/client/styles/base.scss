@@ -1,0 +1,36 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  // background-color: rgb(169, 212, 255 / 55%);
+  // background-image: url(https://www.4electron.com/wordpress/wp-content/uploads/2021/02/machine-learning.png);
+  // background-repeat: inherit;
+}
+
+main {
+  flex: 2;
+}
+
+section {
+  max-width: 800px;
+  margin: 50px auto;
+}
+
+// .root {
+//   background-color: #000000b0;
+//   width: 97%;
+//   margin: auto;
+// }
+// #results {
+//   background-color: #000000b0;
+//   width: 97%;
+//   margin: auto;
+//   padding: 10px;
+// }
+
+span {
+  color: aliceblue;
+}
+#Wait{
+  color: #47ff4db0;
+}

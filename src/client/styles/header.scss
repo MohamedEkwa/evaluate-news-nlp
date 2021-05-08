@@ -1,0 +1,17 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 40px;
+  color: #fff;
+  text-shadow: 0 2px 2px #000;
+}
+img {
+  border-radius: 28%;
+  width: 150px;
+  height: 150px;
+}
+#results {
+  background-color: #000000b0;
+  // color: rgb(175, 145, 226);
+  color: #47ff4db0;
+}
