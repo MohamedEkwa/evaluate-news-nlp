@@ -30,11 +30,7 @@ app.get('/test', function (req, res) {
     res.send(mockAPIResponse)
 })
 
-/*
-    :: My additions
-    - API_KEY call
-    - fetch api - Receive data from the client
-*/
+
 
 // API_KEY call
 const dotenv = require('dotenv');
