@@ -30,8 +30,6 @@ app.get('/test', function (req, res) {
     res.send(mockAPIResponse)
 })
 
-
-
 // API_KEY call
 const dotenv = require('dotenv');
 dotenv.config();
